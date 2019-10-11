@@ -2,4 +2,4 @@ module github.com/SampleAppRecipe/SecurityService
 
 go 1.13
 
-require github.com/segmentio/kafka-go v0.3.3 // indirect
+require github.com/streadway/amqp v0.0.0-20190827072141-edfb9018d271 // indirect
