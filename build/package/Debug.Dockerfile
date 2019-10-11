@@ -14,8 +14,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program. If not, see <https://www.gnu.org/licenses/>.
 
-
-
 # Build the application using Go 1.13 on Alpine
 FROM golang:1.13.1
 
